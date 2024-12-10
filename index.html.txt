@@ -1,0 +1,8 @@
+<html>
+  <head>
+    <title>Projet Examen</title>
+  </head>
+  <body>
+    <h1>Bienvenue sur le projet d'examen</h1>
+  </body>
+</html>
